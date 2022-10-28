@@ -72,11 +72,11 @@ Whitepaper : [link](https://drive.google.com/file/d/17EScDNUlaYT1Xiera20x8rYsmI3
 
  + (Please save all keys on your notepad)     
  
-      mande-chaind keys add $WALLET
+        mande-chaind keys add $WALLET
       
  + To recover your old wallet use this command
 
-      mande-chaind keys add $WALLET --recover
+        mande-chaind keys add $WALLET --recover
       
  # Add wallet and valoper address and load variables into the system
  
@@ -162,5 +162,5 @@ Whitepaper : [link](https://drive.google.com/file/d/17EScDNUlaYT1Xiera20x8rYsmI3
       
 ### That`s All 
 
-{Buy me a cup of coffe ](https://www.paypal.com/paypalme/AbdelAkridi?country.x=NL&locale.x=en_US)
+[Buy me a cup of coffe ](https://www.paypal.com/paypalme/AbdelAkridi?country.x=NL&locale.x=en_US)
      
