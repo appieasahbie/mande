@@ -1,7 +1,7 @@
 # Migrate your validator to another machine
 
 ### 1. Run your node on the new server
-To run your new node follow my guide [Link]([https://github.com/kj89/testnet_manuals/blob/main/mande/README.md](https://github.com/appieasahbie/mande))
+To run your new node follow my guide [Link](https://github.com/appieasahbie/mande)
 
 ### 2. Confirm that you have the recovery seed phrase information for the active key running on the old machine
 
